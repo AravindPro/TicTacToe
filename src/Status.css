@@ -1,0 +1,11 @@
+.status{
+	position: absolute;
+	top: 40px;
+	left: 500px;
+	height: 540px;
+	width: 540px;
+	margin: 0 auto;
+
+	background-color: rgb(158, 124, 95);
+	border: 5px solid black;
+}
